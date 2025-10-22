@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0013-roman-to-integer) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Math
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [1651-shuffle-string](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1651-shuffle-string) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
