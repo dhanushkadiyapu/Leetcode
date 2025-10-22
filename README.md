@@ -23,6 +23,7 @@
 | [1651-shuffle-string](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1651-shuffle-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,16 @@
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
