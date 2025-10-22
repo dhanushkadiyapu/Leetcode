@@ -17,10 +17,12 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0013-roman-to-integer) |
 | [1651-shuffle-string](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1651-shuffle-string) |
+| [1899-count-items-matching-a-rule](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Array
 |  |
 | ------- |
 | [1651-shuffle-string](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1651-shuffle-string) |
+| [1899-count-items-matching-a-rule](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
