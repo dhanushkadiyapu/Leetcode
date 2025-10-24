@@ -8,6 +8,7 @@
 | [0242-valid-anagram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0242-valid-anagram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
