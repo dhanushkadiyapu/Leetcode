@@ -21,6 +21,7 @@
 | [0242-valid-anagram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0242-valid-anagram) |
 | [1651-shuffle-string](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Array
 |  |
 | ------- |
