@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0242-valid-anagram) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -22,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0242-valid-anagram) |
 | [1651-shuffle-string](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Array
 |  |
