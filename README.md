@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0013-roman-to-integer) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
