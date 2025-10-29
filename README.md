@@ -25,6 +25,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Array
 |  |
