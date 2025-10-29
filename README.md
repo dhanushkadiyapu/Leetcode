@@ -24,6 +24,7 @@
 | [1651-shuffle-string](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/dhanushkadiyapu/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Array
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dhanushkadiyapu/Leetcode/tree/master/0242-valid-anagram) |
+| [1970-sorting-the-sentence](https://github.com/dhanushkadiyapu/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [3226-minimum-number-game](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dhanushkadiyapu/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
